@@ -13,12 +13,16 @@
 }
 
 /* CSS cho phần carousel */
-.carousel-slide {
-    background-image: url(img/bg-carousel.jpg);
-    height: 520px;
+.carousel-header {
+    background-image: url(https://cdn.vn.garenanow.com/web/lol-product/LOLwebsite/img/blurred1.jpg);
 }
 
 .carousel-inner {
     text-align: center;
     line-height: 520px;
+}
+
+
+.cottruyen .btn-cottruyen {
+    float: right;
 }
