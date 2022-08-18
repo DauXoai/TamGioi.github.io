@@ -1,0 +1,24 @@
+* {margin: 0;padding: 0; font-family: 'Roboto', sans-serif;}
+
+/* CSS cho phần navbar*/
+.navbar-dark .navbar-brand {
+    font-size: xx-large;
+    color: #D2B48C;
+}
+
+.navbar-dark .navbar-collapse .nav-link {
+    font-size: larger;
+    text-transform: uppercase;
+    color: #D2B48C;
+}
+
+/* CSS cho phần carousel */
+.carousel-slide {
+    background-image: url(img/bg-carousel.jpg);
+    height: 520px;
+}
+
+.carousel-inner {
+    text-align: center;
+    line-height: 520px;
+}
