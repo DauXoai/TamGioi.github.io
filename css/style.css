@@ -14,7 +14,7 @@
 
 /* CSS cho phần carousel */
 .carousel-header {
-    background-image: url(https://cdn.vn.garenanow.com/web/lol-product/LOLwebsite/img/blurred1.jpg);
+    background-image: url(../img/bg-total2.jpg);
 }
 
 .carousel-inner {
@@ -25,4 +25,20 @@
 
 .cottruyen .btn-cottruyen {
     float: right;
+}
+
+.petxoaytour {
+    background-image: url(../img/bg-total2.jpg);
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer {
+    background-image: url(../img/bg-total2.jpg);
+    color: #D2B48C;
+}
+
+.footer .footer-icon {
+    
 }
